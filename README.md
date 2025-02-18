@@ -5,7 +5,7 @@
 This project analyzes the **Mental Health in Tech Survey** dataset and predicts **burnout risk** using machine learning models. The analysis is conducted using **RapidMiner AI Studio**, which automates data preparation, feature engineering, and model selection.  
 
 ## 📂 Files in This Repository  
-- 📜 `burnout_risk_prediction.rmp` – The **RapidMiner Process File** for burnout risk prediction.  
+- 📜 `Burnout_Prediction.rmp` – The **RapidMiner Process File** for burnout risk prediction.  
 - 📊 *(Coming Soon)* **PPT Presentation** explaining the entire process.  
 - 🎥 *(Coming Soon)* **YouTube Video** walkthrough of the project.  
 
